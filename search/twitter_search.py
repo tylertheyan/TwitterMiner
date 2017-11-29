@@ -26,7 +26,7 @@ twitter = Twitter(
 # Twitter API docs:
 # https://dev.twitter.com/rest/reference/get/search/tweets
 #-----------------------------------------------------------------------
-query = twitter.search.tweets(q = "lazy dog")
+query = twitter.search.tweets(q='I am depressed', result_type='recent', lang='en', count=1000)
 
 #-----------------------------------------------------------------------
 # How long did this query take?
@@ -36,5 +36,7 @@ print "Search complete (%.3f seconds)" % (query["search_metadata"]["completed_in
 #-----------------------------------------------------------------------
 # Loop through each of the results, and print its content.
 #-----------------------------------------------------------------------
+
+f = open('workfile', 'w')
 for result in query["statuses"]:
-	print "(%s) @%s %s" % (result["created_at"], result["user"]["screen_name"], result["text"])
+	f.write("(%s) @%s %s \n" % (result["created_at"].encode('utf-8'), result["user"]["screen_name"].encode('utf-8'), result["text"].encode('utf-8')))
