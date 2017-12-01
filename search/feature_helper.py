@@ -20,21 +20,23 @@ def format(text):
     text = text.translate(None, string.punctuation).lower()
     return text
 
+# bag of words
 def words(text):
     text = format(text)
     return text.split(" ")
 
 print(words(t))
 
+# ngram
 # https://stackoverflow.com/questions/14617601/implementing-ngrams-in-python
 def ngram(text,grams):  
     text = format(text)
     words = text.split(" ")
-    model=[]  
-    count=0  
-    for token in words[:len(words)-grams+1]:  
-       model.append(" ".join(words[count:count+grams]))  
-       count=count+1  
+    model = []  
+    count = 0  
+    for token in words[:len(words) - grams + 1]:  
+       model.append(" ".join(words[count:count + grams]))  
+       count = count + 1  
     return model
 
 print(ngram(t, 5))
@@ -43,12 +45,6 @@ print(ngram(t, 5))
 
 def get_tweet_sentiment(tweet):
     analysis = TextBlob(clean_tweet(tweet))
-    # set sentiment
-    if analysis.sentiment.polarity > 0:
-        return 'positive'
-    elif analysis.sentiment.polarity == 0:
-        return 'neutral'
-    else:
-        return 'negative'
+    return  analysis.sentiment.polarity
 
 print(get_tweet_sentiment(t))

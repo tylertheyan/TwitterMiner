@@ -20,6 +20,8 @@ execfile("config.py", config)
 twitter = Twitter(
                 auth = OAuth(config["access_key"], config["access_secret"], config["consumer_key"], config["consumer_secret"]))
 
+# Get usernames of positives
+
 depression_phrases = [
     "I have depression",
     "I use antidepressants",
@@ -52,3 +54,6 @@ for phrase in depression_phrases:
         names.write("%s \n" % (result["user"]["screen_name"].encode('utf-8')))
 
     count += 1
+
+# Get usernames for negatives - how to do this??
+
