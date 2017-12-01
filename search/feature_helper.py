@@ -29,10 +29,11 @@ print(words(t))
 # https://stackoverflow.com/questions/14617601/implementing-ngrams-in-python
 def ngram(text,grams):  
     text = format(text)
+    words = text.split(" ")
     model=[]  
     count=0  
-    for token in text[:len(text)-grams+1]:  
-       model.append(text[count:count+grams])  
+    for token in words[:len(words)-grams+1]:  
+       model.append(" ".join(words[count:count+grams]))  
        count=count+1  
     return model
 
