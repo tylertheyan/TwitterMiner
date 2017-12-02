@@ -52,7 +52,6 @@ for phrase in depression_phrases:
     for result in query["statuses"]:
         f.write("(%s) @%s %s \n" % (result["created_at"].encode('utf-8'), result["user"]["screen_name"].encode('utf-8'), result["text"].encode('utf-8')))
         names.write("%s \n" % (result["user"]["screen_name"].encode('utf-8')))
-
     count += 1
 
 # Get usernames for negatives - how to do this??

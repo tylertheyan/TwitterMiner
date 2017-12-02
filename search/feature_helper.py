@@ -4,7 +4,7 @@ from textblob import TextBlob
 # do pip install textblob
 # python -m textblob.download_corpora
 
-t = "My name is Jenny, I'm a little chicken tenny"
+t = "i fucking love pumpernickel"
 
 # http://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 def clean_tweet(tweet):

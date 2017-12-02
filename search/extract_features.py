@@ -1,11 +1,16 @@
 import feature_helper
 import numpy
+import pickle
 
 # FEATURE EXTRACTION INTO MATRIX MODEL TEST SET
 
 # TODO: import data from csv
 tweets = []
 users = []
+pkl_file = open('positives.pkl', 'rb')
+positive_tweets = pickle.load(pkl_file)
+pkl_file.close()
+print positive_tweets
 
 # TO DO: create probability lists for each feature -> convert to number
 

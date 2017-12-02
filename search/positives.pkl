@@ -1,0 +1,3610 @@
+(lp0
+(dp1
+S'is_rt'
+p2
+I0
+sS'text'
+p3
+VPlease sack him \U0001f60a\u000a\u000aDavid Davis threatens to quit if Damian Green is sacked unfairly\u000a\u000ahttps://t.co/RPjL4s2t7C
+p4
+sS'hashtags'
+p5
+I0
+sS'coordinates'
+p6
+NsS'is_reply'
+p7
+I0
+sS'favorites'
+p8
+I0
+sS'time'
+p9
+VFri Dec 01 15:18:10 +0000 2017
+p10
+sS'mentions'
+p11
+I0
+sa(dp12
+g2
+I0
+sg3
+VHad a trip to Port Talbot today, along one stretch of road I saw 2 signs stating about EU funded projects and yet they voted leave.
+p13
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 30 23:23:24 +0000 2017
+p14
+sg11
+I0
+sa(dp15
+g2
+I0
+sg3
+VRT @VmilliganMe: Unbelievably three of my prosthetic legs were stolen from my car on Sunday in SW6 by Megan's restaurant, no value to anyon\u2026
+p16
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 30 22:43:43 +0000 2017
+p17
+sg11
+I1
+sa(dp18
+g2
+I0
+sg3
+VDid this really happen? \U0001f62e\U0001f632\U0001f648 https://t.co/P9jzTkFMIz
+p19
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VThu Nov 30 11:03:15 +0000 2017
+p20
+sg11
+I0
+sa(dp21
+g2
+I0
+sg3
+VRT @samstev44748854: THE GRAND FINAL OF THE #CASTLEWORLDCUP (PLEASE PLEASE RT!)\u000a\u000aSo here we go!  The grand final.  4 castles.  Only 1 winne\u2026
+p22
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 29 13:44:37 +0000 2017
+p23
+sg11
+I1
+sa(dp24
+g2
+I0
+sg3
+VRT @CharlotteABevan: Only 11% reviews after a baby died considered all the possible factors that might have contributed to the death. Prof\u2026
+p25
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Nov 28 21:38:13 +0000 2017
+p26
+sg11
+I1
+sa(dp27
+g2
+I0
+sg3
+V@DadAndTwo My parents still do that!
+p28
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 27 23:54:06 +0000 2017
+p29
+sg11
+I1
+sa(dp30
+g2
+I0
+sg3
+VRT @caerffilifc: Back to training for our youngsters on Wednesday. New players welcome across all teams \u000a@FAW_Womens @FAWTrust @SouthWalesF\u2026
+p31
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 27 23:43:30 +0000 2017
+p32
+sg11
+I3
+sa(dp33
+g2
+I0
+sg3
+V@GinGinimee @asda It does...Not tried it yet though
+p34
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 27 23:42:38 +0000 2017
+p35
+sg11
+I2
+sa(dp36
+g2
+I0
+sg3
+V@parthaskar You mean the flybe plane actually departed?
+p37
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 27 17:48:36 +0000 2017
+p38
+sg11
+I1
+sa(dp39
+g2
+I0
+sg3
+VAnyone else not really bothered about either the upcoming royal wedding or who he is going to marry?
+p40
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VMon Nov 27 17:46:58 +0000 2017
+p41
+sg11
+I0
+sa(dp42
+g2
+I0
+sg3
+VRT @NHS: #Pathology is a huge dept with several different subspecialities. They are Blood Sciences (including Biochemistry, Haematology, Bl\u2026
+p43
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 27 16:35:58 +0000 2017
+p44
+sg11
+I1
+sa(dp45
+g2
+I0
+sg3
+VRT @NHS: #HelloMyNameIs Becky, I'm a secretary in the pathology department at @BHR_hospitals and a carer for my 14-year-old daughter who ha\u2026
+p46
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 27 16:34:13 +0000 2017
+p47
+sg11
+I2
+sa(dp48
+g2
+I0
+sg3
+VSaw this in @asda and had to buy it...as I'm a Yorkshire lass! Anyone had it before? https://t.co/149jB1vJeA
+p49
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VMon Nov 27 13:27:15 +0000 2017
+p50
+sg11
+I1
+sa(dp51
+g2
+I0
+sg3
+V@Megan__Parry @swpolice Man threatening to jump from flyover
+p52
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 27 11:13:04 +0000 2017
+p53
+sg11
+I2
+sa(dp54
+g2
+I0
+sg3
+V@yrieithydd @Cardiffbus Man threatening to jump
+p55
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 27 10:34:31 +0000 2017
+p56
+sg11
+I2
+sa(dp57
+g2
+I0
+sg3
+VCardiff friends beware, suspect Gabalfa roundabout may be shut soon...Just seen some poor soul climbing over the fl\u2026 https://t.co/yUJAzzzHxv
+p58
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 27 10:16:26 +0000 2017
+p59
+sg11
+I0
+sa(dp60
+g2
+I0
+sg3
+V#biomedicalscientists many of you have them to thank for partly saving your life but things like this..or even putt\u2026 https://t.co/4JsVXgihZO
+p61
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I3
+sg9
+VSun Nov 26 23:41:11 +0000 2017
+p62
+sg11
+I0
+sa(dp63
+g2
+I0
+sg3
+VRT @estheryoud: I support the @CRUK_Policy campaign. More pathologists are needed for cancer tests - histopathologists, haematologists, cli\u2026
+p64
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Nov 26 22:31:12 +0000 2017
+p65
+sg11
+I2
+sa(dp66
+g2
+I0
+sg3
+V@grahamthebirder Where in Energlyn is that?
+p67
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VSun Nov 26 22:24:03 +0000 2017
+p68
+sg11
+I1
+sa(dp69
+g2
+I0
+sg3
+VJust watched #britishworkerswanted omg...their agency relies on Eastern Europeans because the Brits are too lazy yet she voted Leave
+p70
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VSun Nov 26 22:03:13 +0000 2017
+p71
+sg11
+I0
+sa(dp72
+g2
+I0
+sg3
+V@nobeast77 Hope it's not a night in Denbigh? \U0001f602\U0001f609
+p73
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Nov 26 19:07:07 +0000 2017
+p74
+sg11
+I1
+sa(dp75
+g2
+I0
+sg3
+VRT @DMReporter: TRANSLATION: \u201cWe\u2019re so surprised to find a Muslim doing something non-terroristy that we had to take a photo of her.\u201d https\u2026
+p76
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Nov 26 19:00:38 +0000 2017
+p77
+sg11
+I1
+sa(dp78
+g2
+I0
+sg3
+VRT @richardosman: What\u2019s the exact date we can start drinking Baileys?
+p79
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 24 22:55:57 +0000 2017
+p80
+sg11
+I1
+sa(dp81
+g2
+I0
+sg3
+VSnow joke https://t.co/S8cCa8XGaw
+p82
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 24 22:54:24 +0000 2017
+p83
+sg11
+I0
+sa(dp84
+g2
+I0
+sg3
+VRT @airlivenet: BREAKING UPDATE A British Airways Airbus A319 (flight #BA2965) collided with a tug at Glasgow Airport, possibly due to icy\u2026
+p85
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 24 22:45:45 +0000 2017
+p86
+sg11
+I1
+sa(dp87
+g2
+I0
+sg3
+VRT @airlivenet: BREAKING Glasgow Airport closed, reports of an incident
+p88
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 24 21:22:23 +0000 2017
+p89
+sg11
+I1
+sa(dp90
+g2
+I0
+sg3
+V@DMReporter Or just allowing #dailyfail readers to comment at all!
+p91
+sg5
+I1
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Nov 24 21:22:10 +0000 2017
+p92
+sg11
+I1
+sa(dp93
+g2
+I0
+sg3
+V@ILovesTheDiff Did they actually sing a Christmas Carol or just 'We wish you a merry Christmas'?
+p94
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Nov 24 21:20:42 +0000 2017
+p95
+sg11
+I1
+sa(dp96
+g2
+I0
+sg3
+Vhttps://t.co/4WQsjuGiu8
+p97
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VFri Nov 24 21:09:09 +0000 2017
+p98
+sg11
+I0
+sa(dp99
+g2
+I0
+sg3
+VRT @ShehabKhan: One the greatest tragedies of the human race is that we selectively grieve and value life in certain areas more than others\u2026
+p100
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 24 20:28:52 +0000 2017
+p101
+sg11
+I1
+sa(dp102
+g2
+I0
+sg3
+VRT @Caerphilly_Cadw: Free entry to the Christmas fun at Caerphilly Castle 8, 9, 10 December from 10 o'clock https://t.co/ZhtP9XZyu9
+p103
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 24 13:25:39 +0000 2017
+p104
+sg11
+I1
+sa(dp105
+g2
+I0
+sg3
+VBrexit 'bombshell' for UK's European Capital of Culture 2023 plans - https://t.co/msd2LOtwhj
+p106
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 23 22:35:42 +0000 2017
+p107
+sg11
+I0
+sa(dp108
+g2
+I0
+sg3
+VRT @carolynharris24: On Tuesday it will be a year since I stood in the Chamber and talked about the tragic loss of my son, on 25 March I sh\u2026
+p109
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 23 13:52:35 +0000 2017
+p110
+sg11
+I1
+sa(dp111
+g2
+I0
+sg3
+V@MyDoncaster Jog with bins?
+p112
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VThu Nov 23 13:45:22 +0000 2017
+p113
+sg11
+I1
+sa(dp114
+g2
+I0
+sg3
+VRT @MyDoncaster: We have a classic council-twitter problem this afternoon.\u000a\u000aWe need to talk to you about bins \U0001f5d1\ufe0f, but we also need to talk\u2026
+p115
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 23 13:45:00 +0000 2017
+p116
+sg11
+I1
+sa(dp117
+g2
+I0
+sg3
+V@MsJulieLenarz All his followers or just a select few?
+p118
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VThu Nov 23 13:44:23 +0000 2017
+p119
+sg11
+I1
+sa(dp120
+g2
+I0
+sg3
+VRT @caerffilifc: Exciting sponsorship opportunity available!\u000a\u000aWe are looking for a primary shirt sponsor for our rapidly expanding junior t\u2026
+p121
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 23 13:42:19 +0000 2017
+p122
+sg11
+I1
+sa(dp123
+g2
+I0
+sg3
+VFacebook is becoming moanbook
+p124
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 23 13:41:48 +0000 2017
+p125
+sg11
+I0
+sa(dp126
+g2
+I0
+sg3
+V@Elaineeae Hopefully you'll be ok by then
+p127
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Nov 22 22:33:13 +0000 2017
+p128
+sg11
+I1
+sa(dp129
+g2
+I0
+sg3
+V@HywelDaniel @Badj1960 All NHS workers do in my opinion
+p130
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I2
+sg9
+VWed Nov 22 22:25:08 +0000 2017
+p131
+sg11
+I2
+sa(dp132
+g2
+I0
+sg3
+V@Elaineeae Currently chucking down here
+p133
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Nov 22 22:19:14 +0000 2017
+p134
+sg11
+I1
+sa(dp135
+g2
+I0
+sg3
+VRT @paulwaugh: So Hammond is spending more on Brexit preparations (£3bn) than on the NHS (£2.8bn resource cash). That wasn't on Boris's bus\u2026
+p136
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 22 17:03:00 +0000 2017
+p137
+sg11
+I1
+sa(dp138
+g2
+I0
+sg3
+V@bbclaurak Just nurses?
+p139
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I2
+sg9
+VWed Nov 22 12:33:26 +0000 2017
+p140
+sg11
+I1
+sa(dp141
+g2
+I0
+sg3
+VRT @caerffilifc: Under 15s training on Wednesday 6:30-7:30.  If you're thinking about playing football, feel free to come along! New player\u2026
+p142
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 22 12:29:21 +0000 2017
+p143
+sg11
+I1
+sa(dp144
+g2
+I0
+sg3
+VRT @ladyjanerm: We are holding a Food bank at the Concourse UHW 27-11-17 10-3pm and drop in 27-29th UHL Information and Support Centre. Tha\u2026
+p145
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Nov 21 13:28:52 +0000 2017
+p146
+sg11
+I1
+sa(dp147
+g2
+I0
+sg3
+V@Tilly77527 @bbchealth @SandsUK I can well understand, my daughter too was stillborn, she had undetected growth res\u2026 https://t.co/xQIKpAhvxQ
+p148
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VTue Nov 21 09:24:27 +0000 2017
+p149
+sg11
+I3
+sa(dp150
+g2
+I0
+sg3
+V@Tilly77527 @bbchealth @SandsUK Sadly there are many other reasons why babies are stillborn but if we can reduce so\u2026 https://t.co/LUqDSPWxSz
+p151
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 20 23:02:25 +0000 2017
+p152
+sg11
+I3
+sa(dp153
+g2
+I0
+sg3
+VRT @bbchealth: Women advised to sleep on side to help prevent stillbirth https://t.co/2Gzccet07k
+p154
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 20 23:01:08 +0000 2017
+p155
+sg11
+I1
+sa(dp156
+g2
+I0
+sg3
+VRT @SandsUK: MiNESS study estimates that if all women went to sleep on their side when #pregnant it would save lives of 130 babies a year i\u2026
+p157
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 20 22:59:31 +0000 2017
+p158
+sg11
+I1
+sa(dp159
+g2
+I0
+sg3
+V@adeleparks It's worrying me \U0001f648
+p160
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VMon Nov 20 22:59:08 +0000 2017
+p161
+sg11
+I1
+sa(dp162
+g2
+I0
+sg3
+V@theiron_bear Rubbish, hope it all sorts out. My work fairly stressful at moment for a variety of reasons
+p163
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 20 20:45:52 +0000 2017
+p164
+sg11
+I1
+sa(dp165
+g2
+I0
+sg3
+V@adeleparks currently reading Image of You but I'm too scared to read on in case what I think might happen happens!
+p166
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VMon Nov 20 20:45:00 +0000 2017
+p167
+sg11
+I1
+sa(dp168
+g2
+I0
+sg3
+V@theiron_bear Ah, mines not that bad..in the hundreds
+p169
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 20 20:40:14 +0000 2017
+p170
+sg11
+I1
+sa(dp171
+g2
+I0
+sg3
+V@theiron_bear I too have the same problem \U0001f615
+p172
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Nov 20 20:25:24 +0000 2017
+p173
+sg11
+I1
+sa(dp174
+g2
+I0
+sg3
+VI'm such a good friend...5 hour round trip for a 3hr visit to see their new baby. Worth it though for the cuddles
+p175
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I2
+sg9
+VSun Nov 19 22:45:07 +0000 2017
+p176
+sg11
+I0
+sa(dp177
+g2
+I0
+sg3
+VRT @samstev44748854: HEAT 5: SOUTH WALES (please RT!)\u000a\u000aPlease RT and vote for your favourite castle.  Above all, squabble in the comments -\u2026
+p178
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Nov 19 22:43:10 +0000 2017
+p179
+sg11
+I1
+sa(dp180
+g2
+I0
+sg3
+V@robjones48 @Sheridansmith1 @JRossShow And of course a Donny lass \U0001f44d
+p181
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSat Nov 18 23:15:05 +0000 2017
+p182
+sg11
+I3
+sa(dp183
+g2
+I0
+sg3
+VIs it wrong at 40 and 3/4 to really like the new @taylorswift13 album?
+p184
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VSat Nov 18 20:38:12 +0000 2017
+p185
+sg11
+I1
+sa(dp186
+g2
+I0
+sg3
+V@traumagasdoc Ouch...I've had formalin in my eye a few times...slightly painful!
+p187
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VSat Nov 18 19:30:50 +0000 2017
+p188
+sg11
+I1
+sa(dp189
+g2
+I0
+sg3
+VRT @sport_leisure: First into the Hall of Fame is Julie Boyce @caerffilifc #scawards17 https://t.co/4SIolyvW50
+p190
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 17 22:06:34 +0000 2017
+p191
+sg11
+I2
+sa(dp192
+g2
+I0
+sg3
+VThe social media department for @MyDoncaster needs a reward for this thread! https://t.co/LjPIr9UH4O
+p193
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VThu Nov 16 23:57:24 +0000 2017
+p194
+sg11
+I1
+sa(dp195
+g2
+I0
+sg3
+V@greg_jenner My home town council \U0001f44d
+p196
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VThu Nov 16 23:54:24 +0000 2017
+p197
+sg11
+I1
+sa(dp198
+g2
+I0
+sg3
+VRT @bbclaurak: Rumours doing the rounds that govt looking for a way of ditching the date amendment that well, doesn\u2019t look like they are di\u2026
+p199
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 16 19:16:43 +0000 2017
+p200
+sg11
+I1
+sa(dp201
+g2
+I0
+sg3
+VRT @EUflagmafia: My local Wetherspoons only has one beer choice. It's called #bollockstobrexit and it is superb. Stickers from https://t.co\u2026
+p202
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 16 19:14:47 +0000 2017
+p203
+sg11
+I1
+sa(dp204
+g2
+I0
+sg3
+V\U0001f914\U0001f914\U0001f648 https://t.co/XfpYN5xTDv
+p205
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 16 18:51:29 +0000 2017
+p206
+sg11
+I0
+sa(dp207
+g2
+I0
+sg3
+V@WelshFoodie62 I filled the same questionnaire the other day at the dentist...think I lied too \U0001f648
+p208
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VThu Nov 16 18:49:17 +0000 2017
+p209
+sg11
+I1
+sa(dp210
+g2
+I0
+sg3
+VRT @TheUnmumsyMum: Are there any tips, words of wisdom or otherwise useful pieces of information you wish you\u2019d known in advance of giving\u2026
+p211
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 16 18:48:30 +0000 2017
+p212
+sg11
+I1
+sa(dp213
+g2
+I0
+sg3
+VRT @rafaelbehr: Very engaging thread. Top Sunday twitter reading. https://t.co/mF762bU5Bt
+p214
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Nov 12 22:58:38 +0000 2017
+p215
+sg11
+I1
+sa(dp216
+g2
+I0
+sg3
+VRT @DMReporter: READERSHIP: And the comment of the day is\u2026 https://t.co/ko35xdhYS1
+p217
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Nov 12 22:53:15 +0000 2017
+p218
+sg11
+I1
+sa(dp219
+g2
+I0
+sg3
+V@katczeks There was plenty of warning on social media and local press. I read a comment somewhere that they did get\u2026 https://t.co/wtxYuSLEjR
+p220
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VSun Nov 12 22:52:49 +0000 2017
+p221
+sg11
+I1
+sa(dp222
+g2
+I0
+sg3
+V@walesaway My 7yo daughter is going to this match...Will be her first Wales football match
+p223
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I3
+sg9
+VSun Nov 12 22:50:41 +0000 2017
+p224
+sg11
+I1
+sa(dp225
+g2
+I0
+sg3
+VRT @haveigotnews: We will not tolerate attempts to slow down Brexit, says Prime Minister whose government still hasn't published a detailed\u2026
+p226
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 10 21:32:31 +0000 2017
+p227
+sg11
+I1
+sa(dp228
+g2
+I0
+sg3
+V@WelshGasDoc What!!! Orange creme worse...so wrong, that would be my top, followed by strawberry creme
+p229
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I7
+sg9
+VFri Nov 10 21:30:51 +0000 2017
+p230
+sg11
+I1
+sa(dp231
+g2
+I0
+sg3
+VRT @DMReporter: EVERY FUCKING ARTICLE: Because it\u2019s always about immigration and foreigners, even when it really, really isn\u2019t. https://t.c\u2026
+p232
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 10 21:23:17 +0000 2017
+p233
+sg11
+I1
+sa(dp234
+g2
+I0
+sg3
+VRT @DMReporter: YOUR COMMENTS: Hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha\u2026
+p235
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 10 21:05:07 +0000 2017
+p236
+sg11
+I1
+sa(dp237
+g2
+I0
+sg3
+V\U0001f602\U0001f602 blooming heck Nige...of course they are clever people looking out for your health https://t.co/XmrqMOkngI
+p238
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 10 21:03:30 +0000 2017
+p239
+sg11
+I0
+sa(dp240
+g2
+I0
+sg3
+VSo my watching of @C4Gogglebox and @TheLastLeg is being delayed by @WelshieinFrance hogging the tv for the #WALFRA match
+p241
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 10 20:00:11 +0000 2017
+p242
+sg11
+I3
+sa(dp243
+g2
+I0
+sg3
+VRT @WelshDalaiLama: I know Halloween's over but if you still want a fright, head over to Britain First's Facebook page and see how many of\u2026
+p244
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 10 09:07:02 +0000 2017
+p245
+sg11
+I1
+sa(dp246
+g2
+I0
+sg3
+V@WelshGasDoc Funnily enough I had a peak on there yesterday before I saw this tweet...to be honest the 'friend's' o\u2026 https://t.co/TibHaKDNng
+p247
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Nov 10 09:06:43 +0000 2017
+p248
+sg11
+I1
+sa(dp249
+g2
+I0
+sg3
+VHow can you remember the words from a song you haven't heard in about 20 odd years? #soundsofthe80s @sarajcox
+p250
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VFri Nov 10 08:56:05 +0000 2017
+p251
+sg11
+I1
+sa(dp252
+g2
+I0
+sg3
+VRT @AngelBarGrill: Starting this weekend we have a £19.95 24oz mix grill special. So if you coming for #Wales #Australia at 5.15 why not sa\u2026
+p253
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 09 18:59:52 +0000 2017
+p254
+sg11
+I1
+sa(dp255
+g2
+I0
+sg3
+VRT @RCorbettMEP: Remember, #Mordaunt was one of the #Leave liars in #EUreferendum ,  saying Britain could not stop Turkey joining EU (in fa\u2026
+p256
+sg5
+I3
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Nov 09 18:59:23 +0000 2017
+p257
+sg11
+I1
+sa(dp258
+g2
+I0
+sg3
+V@grahamthebirder \U0001f609 https://t.co/6kjlHuLzv5
+p259
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VWed Nov 08 19:43:25 +0000 2017
+p260
+sg11
+I1
+sa(dp261
+g2
+I0
+sg3
+VRT @dreenbee: Priti Patel forced to resign over unofficial meetings with Israelis https://t.co/1CSWBTN6wU
+p262
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 08 19:35:27 +0000 2017
+p263
+sg11
+I1
+sa(dp264
+g2
+I0
+sg3
+VRT @Steven_Swinford: Priti Patel has arrived in Downing Street for her meeting with Theresa May. Hearing that she will resign rather than b\u2026
+p265
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 08 18:35:39 +0000 2017
+p266
+sg11
+I1
+sa(dp267
+g2
+I0
+sg3
+VRT @ArrivaTW: Due to a safety inspection on a train at Llanbradach some lines are disrupted.\u000aDisruption is expected until 20:00 https://t.c\u2026
+p268
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 08 18:32:06 +0000 2017
+p269
+sg11
+I1
+sa(dp270
+g2
+I0
+sg3
+VRT @bbclaurak: Seems like Priti Patel\u2019s departure may be rather imminent ... nothing confirmed yet, watch this space
+p271
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Nov 07 23:36:40 +0000 2017
+p272
+sg11
+I1
+sa(dp273
+g2
+I0
+sg3
+VRT @gpcaerphilly: Road between St Cenydd and Cedar tree roundabout is currently closed. Please use an alternative route. @gpbedwas
+p274
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Nov 06 17:28:55 +0000 2017
+p275
+sg11
+I2
+sa(dp276
+g2
+I0
+sg3
+V12 years ago my daughter was stillborn #alwayslovedneverforgotten #babyloss https://t.co/xj64z6HOxZ
+p277
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I6
+sg9
+VSun Nov 05 20:39:22 +0000 2017
+p278
+sg11
+I0
+sa(dp279
+g2
+I0
+sg3
+VRT @damocrat: Redwood: \u201dWhen we leave the EU we will have a country to be proud of\u201d\u000a\u000aUmunna: \u201dI was proud of this country before referendum\u2026
+p280
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Nov 04 23:43:01 +0000 2017
+p281
+sg11
+I1
+sa(dp282
+g2
+I0
+sg3
+V@AindowDeb Yes...I was rooting for Guy Fawkes and co even though I knew the outcome!
+p283
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSat Nov 04 23:34:29 +0000 2017
+p284
+sg11
+I1
+sa(dp285
+g2
+I0
+sg3
+VEnjoyed #gunpowder realise it may not be correct historical wise but ashamed to say I never really knew the story of the plot.
+p286
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Nov 04 23:21:44 +0000 2017
+p287
+sg11
+I0
+sa(dp288
+g2
+I0
+sg3
+V@justsimplyhales @drmartens I like them
+p289
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSat Nov 04 23:08:14 +0000 2017
+p290
+sg11
+I2
+sa(dp291
+g2
+I0
+sg3
+VWaiting for fireworks @Caerphilly_Cadw https://t.co/0qMrSln7YS
+p292
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I17
+sg9
+VSat Nov 04 21:34:22 +0000 2017
+p293
+sg11
+I1
+sa(dp294
+g2
+I0
+sg3
+VRT @gpasuwest: Machen\u000aDid you park this vehicle here? Driver made off from this RTC and has not made contact with us. Any ideas who it is?\u2026
+p295
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Nov 04 00:01:23 +0000 2017
+p296
+sg11
+I1
+sa(dp297
+g2
+I0
+sg3
+V@NevilleSouthall So true...was thinking this the other day!
+p298
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Nov 03 21:49:35 +0000 2017
+p299
+sg11
+I1
+sa(dp300
+g2
+I0
+sg3
+VLove this...my fav @BonJovi album https://t.co/nWlIMQ9Tpq
+p301
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VFri Nov 03 21:35:55 +0000 2017
+p302
+sg11
+I1
+sa(dp303
+g2
+I0
+sg3
+VRT @C4Gogglebox: Meet Jessica &amp; her new mate Jeremy.\u000a@JefficaHoons @jeremycorbyn #promisetheywontjusttalkaboutpolitics\u000a#GOGGLEBOX 9PM TONIG\u2026
+p304
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 03 20:24:39 +0000 2017
+p305
+sg11
+I3
+sa(dp306
+g2
+I0
+sg3
+VRT @Telegraph: https://t.co/RrTN6zCcUO
+p307
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 03 20:23:18 +0000 2017
+p308
+sg11
+I1
+sa(dp309
+g2
+I0
+sg3
+VRT @ThatTimWalker: This front page gets funnier every day https://t.co/Uj38gVFDZb
+p310
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 03 20:20:12 +0000 2017
+p311
+sg11
+I1
+sa(dp312
+g2
+I0
+sg3
+V@WelshFoodie62 Be joining you soon \U0001f609
+p313
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VFri Nov 03 20:19:26 +0000 2017
+p314
+sg11
+I1
+sa(dp315
+g2
+I0
+sg3
+VCommute to work bettered by listening to last Friday's #soundsofthe80s @sarajcox @BBCRadio2
+p316
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Nov 03 10:27:20 +0000 2017
+p317
+sg11
+I2
+sa(dp318
+g2
+I0
+sg3
+VRT @bbcnickrobinson: Commons just voted to publish Brexit papers ministers said they couldn\u2019t publish. Story of this parliament = governmen\u2026
+p319
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 01 23:17:59 +0000 2017
+p320
+sg11
+I1
+sa(dp321
+g2
+I0
+sg3
+VRT @HadleyFreeman: For the third week running Sarah Vine has, with laser focus, concentrated on the real villains in the sex harassment sca\u2026
+p322
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 01 20:07:11 +0000 2017
+p323
+sg11
+I1
+sa(dp324
+g2
+I0
+sg3
+V@hornej13 @MrBen_King @NHS Would love this \U0001f44d\U0001f44d
+p325
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I3
+sg9
+VWed Nov 01 20:00:59 +0000 2017
+p326
+sg11
+I3
+sa(dp327
+g2
+I0
+sg3
+VRT @UKIPNFKN: Gov't loses vote on Brexit impact assessments via @SkyNews\u000a#Brexit\u000ahttps://t.co/XoFdGpO2Qx
+p328
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 01 19:54:59 +0000 2017
+p329
+sg11
+I2
+sa(dp330
+g2
+I0
+sg3
+VRT @caerffilifc: Half term may have affected numbers, but a great training sessions with the youngsters this evening. These girls are a ple\u2026
+p331
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 01 19:49:42 +0000 2017
+p332
+sg11
+I1
+sa(dp333
+g2
+I0
+sg3
+VRT @bbclaurak: BREAKING- Michael Fallon has resigned as Defence Secretary, admitting his behaviour in the past may have \u2018fallen short\u2019
+p334
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Nov 01 19:49:35 +0000 2017
+p335
+sg11
+I1
+sa(dp336
+g2
+I0
+sg3
+VRT @annetteashley61: I hate how Poppy appeal has been hijacked by this mentality\U0001f448\U0001f610\u000aThose lives sacrificed WW1 &amp; WW 2 \U0001f448\u000aCame from all walks\u2026
+p337
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Oct 31 13:40:32 +0000 2017
+p338
+sg11
+I1
+sa(dp339
+g2
+I0
+sg3
+VActually..Nothing worse than sitting next to bored 9yo with someone in the carriage coughing every 2 minutes on a 3hr train journey!
+p340
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 29 18:22:41 +0000 2017
+p341
+sg11
+I0
+sa(dp342
+g2
+I0
+sg3
+VNothing worse than sitting next to a bored child (my 9yo) on a train for 3hrs!
+p343
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VSun Oct 29 18:20:48 +0000 2017
+p344
+sg11
+I0
+sa(dp345
+g2
+I0
+sg3
+VJoys of a family hotel room #wheresmywine https://t.co/UTnzESaaWP
+p346
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I2
+sg9
+VSat Oct 28 22:11:51 +0000 2017
+p347
+sg11
+I0
+sa(dp348
+g2
+I0
+sg3
+V#London view from @HiltonHotels Canary Wharf this evening https://t.co/zee0stw5Kq
+p349
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I3
+sg9
+VSat Oct 28 21:34:19 +0000 2017
+p350
+sg11
+I1
+sa(dp351
+g2
+I0
+sg3
+V@GWRHelp Thank you
+p352
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Oct 27 19:02:43 +0000 2017
+p353
+sg11
+I1
+sa(dp354
+g2
+I0
+sg3
+V@CommuteClub Great. Thanks
+p355
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Oct 27 18:16:22 +0000 2017
+p356
+sg11
+I1
+sa(dp357
+g2
+I0
+sg3
+V@CommuteClub Hope sorted soon...we are en route...got a while yet mind as just left Bristol Parkway
+p358
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Oct 27 18:14:47 +0000 2017
+p359
+sg11
+I1
+sa(dp360
+g2
+I0
+sg3
+V@GWRHelp is there a buffet car on the new trains or is there a trolly service?
+p361
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Oct 27 18:11:53 +0000 2017
+p362
+sg11
+I1
+sa(dp363
+g2
+I0
+sg3
+V@GWRHelp plenty of leg room...in fact too much for 7yo who is standing at the table to play on iPad!
+p364
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Oct 27 17:44:57 +0000 2017
+p365
+sg11
+I1
+sa(dp366
+g2
+I0
+sg3
+VOn way to London from Cardiff and on a new @GWRHelp train. Seats are a bit hard...might have a numb bum by Paddington #GWRNewTrains #gwr
+p367
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I5
+sg9
+VFri Oct 27 17:38:07 +0000 2017
+p368
+sg11
+I1
+sa(dp369
+g2
+I0
+sg3
+VRT @MoneySavingExp: Have you had a pay rise in the last year? If so how much? If no, uh-oh! \u000aVOTE NOW in our weekly poll! https://t.co/fyMP\u2026
+p370
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Oct 27 10:14:45 +0000 2017
+p371
+sg11
+I1
+sa(dp372
+g2
+I0
+sg3
+VRT @GoodwinMJ: Dear Conservative Party. \u000aThe recipe for losing university towns, graduates &amp; liberals forever looks a bit like this.... htt\u2026
+p373
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Oct 26 20:51:51 +0000 2017
+p374
+sg11
+I1
+sa(dp375
+g2
+I0
+sg3
+V@smithskaye Oh no...not the same at all!
+p376
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VWed Oct 25 21:53:17 +0000 2017
+p377
+sg11
+I1
+sa(dp378
+g2
+I0
+sg3
+V@smithskaye @ILovesTheDiff I have loads of photos on Instagram clur.roberts
+p379
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 25 21:50:05 +0000 2017
+p380
+sg11
+I2
+sa(dp381
+g2
+I0
+sg3
+V@smithskaye @ILovesTheDiff It's my daily walk to work and as soon as I saw the mist today I needed to take a photo or 3 \U0001f60a
+p382
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 25 21:43:46 +0000 2017
+p383
+sg11
+I2
+sa(dp384
+g2
+I0
+sg3
+VTook these walking into work today #Heathpark #Cardiff @ILovesTheDiff https://t.co/PK78WFsZGH
+p385
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I49
+sg9
+VWed Oct 25 21:24:40 +0000 2017
+p386
+sg11
+I1
+sa(dp387
+g2
+I0
+sg3
+V@marcuschown @BBCNews And the BBC programme Hospital highlighted this greatly
+p388
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VTue Oct 24 09:45:13 +0000 2017
+p389
+sg11
+I2
+sa(dp390
+g2
+I0
+sg3
+VRT @SWP_Roads: M4 westbound closed between Junctions 29 and 33 due to a Road Traffic Collision - This will be for at least another hour. In\u2026
+p391
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Oct 24 09:43:38 +0000 2017
+p392
+sg11
+I1
+sa(dp393
+g2
+I0
+sg3
+V@SarahCrossan Nothing wrong with that...alcohol to kill the germs!
+p394
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VMon Oct 23 21:02:23 +0000 2017
+p395
+sg11
+I1
+sa(dp396
+g2
+I0
+sg3
+VRT @caerffilifc: Junior Team training @ St Cenydd Leisure Center, Wednesday 6-7pm.  All welcome.  1st session free! #girlsfootball #caerphi\u2026
+p397
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 23 18:03:24 +0000 2017
+p398
+sg11
+I1
+sa(dp399
+g2
+I0
+sg3
+V@RhiannonM13 \U0001f602\U0001f602\U0001f602
+p400
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 21:46:03 +0000 2017
+p401
+sg11
+I1
+sa(dp402
+g2
+I0
+sg3
+V@RhiannonM13 Think you'll find the M4 just as bad!!
+p403
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 21:24:36 +0000 2017
+p404
+sg11
+I1
+sa(dp405
+g2
+I0
+sg3
+V@RhiannonM13 What! That's ridiculous! You'll do anything to avoid the A470 in a morning!
+p406
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 21:22:09 +0000 2017
+p407
+sg11
+I1
+sa(dp408
+g2
+I0
+sg3
+V@justsimplyhales Erm....maybe you'll find out tomorrow!!
+p409
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 21:19:45 +0000 2017
+p410
+sg11
+I1
+sa(dp411
+g2
+I0
+sg3
+V@RhiannonM13 You home now? Back for a week of joy in FPU?
+p412
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 21:19:10 +0000 2017
+p413
+sg11
+I1
+sa(dp414
+g2
+I0
+sg3
+VThat was an emotional 2hrs...#coldfeet and #stella back to back
+p415
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VSun Oct 22 21:17:49 +0000 2017
+p416
+sg11
+I0
+sa(dp417
+g2
+I0
+sg3
+V@JulieOwenMoylan I may look into it \U0001f44d
+p418
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VSun Oct 22 19:09:44 +0000 2017
+p419
+sg11
+I1
+sa(dp420
+g2
+I0
+sg3
+V@JulieOwenMoylan It really works? I hate flying, don't let it stop me but don't think it does any good to my blood pressure
+p421
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 18:36:40 +0000 2017
+p422
+sg11
+I1
+sa(dp423
+g2
+I0
+sg3
+V@Dangercoombs Heidi had a strop at first as she didn't want to watch it but at the end she said she liked it! Not s\u2026 https://t.co/jU6jT6Kak3
+p424
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 18:16:58 +0000 2017
+p425
+sg11
+I1
+sa(dp426
+g2
+I0
+sg3
+V@mindoutthere Wow...snowy too. We went in the summer, it's amazing round there
+p427
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VSun Oct 22 15:25:17 +0000 2017
+p428
+sg11
+I1
+sa(dp429
+g2
+I0
+sg3
+VJust made hubby and kids watch #chittychittybangbang so we could see #neuschwansteincastle where we went in the sum\u2026 https://t.co/0rjyYylLu8
+p430
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I6
+sg9
+VSun Oct 22 15:20:44 +0000 2017
+p431
+sg11
+I0
+sa(dp432
+g2
+I0
+sg3
+V@greg_jenner \U0001f602\U0001f609 https://t.co/AAGoFUu8mD
+p433
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 22 09:29:48 +0000 2017
+p434
+sg11
+I1
+sa(dp435
+g2
+I0
+sg3
+V@StayGoMag There was a warning before it came on
+p436
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 22 09:26:39 +0000 2017
+p437
+sg11
+I1
+sa(dp438
+g2
+I0
+sg3
+VEver since seeing @RonJichardson I have a real issue with where this toilet roll is!!   #takeaim https://t.co/EDZIlnN5E3
+p439
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Oct 21 20:11:12 +0000 2017
+p440
+sg11
+I1
+sa(dp441
+g2
+I0
+sg3
+VRT @IBMScience: Did you know? \u000aAt least 70 % of all medical diagnoses are based on laboratory test results #BiomedicalScience https://t.co/\u2026
+p442
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Oct 21 12:10:10 +0000 2017
+p443
+sg11
+I1
+sa(dp444
+g2
+I0
+sg3
+VRT @IBMScience: #DidYouKnow 150,000,000 samples are handled by laboratory services in the UK every year #BiomedicalSciencefacts https://t.c\u2026
+p445
+sg5
+I2
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Oct 21 12:09:58 +0000 2017
+p446
+sg11
+I1
+sa(dp447
+g2
+I0
+sg3
+V@TheLastLeg #isitok https://t.co/Gl7laWizXx
+p448
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Oct 20 18:01:00 +0000 2017
+p449
+sg11
+I1
+sa(dp450
+g2
+I0
+sg3
+V@greg_jenner Has no one in the white house tried to suspend his Twitter account yet?!!
+p451
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Oct 20 17:56:36 +0000 2017
+p452
+sg11
+I1
+sa(dp453
+g2
+I0
+sg3
+V@bryanthegirl @DrJenGunter It contains milk?!
+p454
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VFri Oct 20 07:08:34 +0000 2017
+p455
+sg11
+I2
+sa(dp456
+g2
+I0
+sg3
+VRT @ChrisMoyles: It's Friday... YES!\u000a(Retweet this) https://t.co/dCsT8tJRtr
+p457
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VFri Oct 20 07:07:46 +0000 2017
+p458
+sg11
+I1
+sa(dp459
+g2
+I0
+sg3
+V@DrJenGunter See that's where the US is going wrong!!
+p460
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VThu Oct 19 21:04:30 +0000 2017
+p461
+sg11
+I1
+sa(dp462
+g2
+I0
+sg3
+V@DrJenGunter US chocolate is disgusting compared to the UK
+p463
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I17
+sg9
+VThu Oct 19 21:01:45 +0000 2017
+p464
+sg11
+I1
+sa(dp465
+g2
+I0
+sg3
+V@benglaze One way only...once you arrive in Cardiff you don't want to leave \U0001f609
+p466
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VThu Oct 19 20:57:02 +0000 2017
+p467
+sg11
+I1
+sa(dp468
+g2
+I0
+sg3
+VRT @CardiffSANDS: Please share \u000a\u000aMother appeals for return of stillborn baby charm bracelet - https://t.co/s938InGR6C
+p469
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Oct 19 19:28:03 +0000 2017
+p470
+sg11
+I1
+sa(dp471
+g2
+I0
+sg3
+V@mrjakehumphrey @gregjames You've got it wrong...never get into the habit of bed sharing with children!
+p472
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VThu Oct 19 08:23:36 +0000 2017
+p473
+sg11
+I2
+sa(dp474
+g2
+I0
+sg3
+VRT @AnnaMcMorrin: Another English-centric report from @BBCr4today ignoring the positive effect of @WelshGovernment\u2019s \u201cOpt out\u201d law on organ\u2026
+p475
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VThu Oct 19 08:19:35 +0000 2017
+p476
+sg11
+I3
+sa(dp477
+g2
+I0
+sg3
+VRT @Kevin_Maguire: Now Tories uncomfortable when Corbyn quoted George Osborne\u2019s admission Gordon Brown correctly handled the financial cris\u2026
+p478
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Oct 18 21:02:03 +0000 2017
+p479
+sg11
+I1
+sa(dp480
+g2
+I0
+sg3
+V@anniesinaband @MB385 @NHSMillion And the care carries on as your biopsy passes through the histology labs for diag\u2026 https://t.co/2RJTBbtjG0
+p481
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 18 20:49:51 +0000 2017
+p482
+sg11
+I3
+sa(dp483
+g2
+I0
+sg3
+VRT @EL4JC: George Osborne finally admits that the "Labour crashed the economy" lie is well.... a lie. https://t.co/jpYf5R80pw
+p484
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VWed Oct 18 20:47:35 +0000 2017
+p485
+sg11
+I1
+sa(dp486
+g2
+I0
+sg3
+V@SarahSwanSAILS @huwtroberts @GwynnieBanjo https://t.co/fYhzjUqZca
+p487
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I1
+sg9
+VWed Oct 18 18:17:29 +0000 2017
+p488
+sg11
+I3
+sa(dp489
+g2
+I0
+sg3
+V@JasonManford We use to spend all morning watching Wide Awake Club then Why Don't You!
+p490
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 18 09:59:39 +0000 2017
+p491
+sg11
+I1
+sa(dp492
+g2
+I0
+sg3
+V@eve_leveritt Done...in work so may not reply straight away
+p493
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 18 08:25:11 +0000 2017
+p494
+sg11
+I1
+sa(dp495
+g2
+I0
+sg3
+V@eve_leveritt Of course
+p496
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 18 08:14:50 +0000 2017
+p497
+sg11
+I1
+sa(dp498
+g2
+I0
+sg3
+V@eve_leveritt Yep
+p499
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VWed Oct 18 08:09:16 +0000 2017
+p500
+sg11
+I1
+sa(dp501
+g2
+I0
+sg3
+V@ILovesTheDiff Me too this eve!
+p502
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VTue Oct 17 20:11:24 +0000 2017
+p503
+sg11
+I1
+sa(dp504
+g2
+I0
+sg3
+VRT @brolloh: Follow suggestion: @NHS - new person working for them runs the account each week. Great insights from great people.
+p505
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Oct 17 20:10:54 +0000 2017
+p506
+sg11
+I2
+sa(dp507
+g2
+I0
+sg3
+V@Battle_Mum Love Lake Bled, we went a few years ago with a 5 and 7yo
+p508
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VTue Oct 17 20:09:26 +0000 2017
+p509
+sg11
+I1
+sa(dp510
+g2
+I0
+sg3
+V@ilovepathology That's a great but weird prize. I showed a nurse round the lab last week and she was amazed and what we did
+p511
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VTue Oct 17 12:03:32 +0000 2017
+p512
+sg11
+I1
+sa(dp513
+g2
+I0
+sg3
+VRT @WalesOnline: Serious accident involving motorbike and bus closes busy Cardiff road - live updates https://t.co/39rWovIxA8
+p514
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VTue Oct 17 11:55:42 +0000 2017
+p515
+sg11
+I1
+sa(dp516
+g2
+I0
+sg3
+V@eve_leveritt I'm in work now so it's still outside the house as they hadn't been when I left
+p517
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VTue Oct 17 11:24:35 +0000 2017
+p518
+sg11
+I1
+sa(dp519
+g2
+I0
+sg3
+V@eve_leveritt Yep...still upright this morning
+p520
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VTue Oct 17 08:14:35 +0000 2017
+p521
+sg11
+I1
+sa(dp522
+g2
+I0
+sg3
+V@peterc83 I definately need to go to bed now...hope they all land safely somewhere!! So glad I'm not on one of them right now!
+p523
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 22:34:49 +0000 2017
+p524
+sg11
+I1
+sa(dp525
+g2
+I0
+sg3
+V@peterc83 Am watching them all...should be going go bed though!
+p526
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 22:32:34 +0000 2017
+p527
+sg11
+I1
+sa(dp528
+g2
+I0
+sg3
+V@LeonAndJune If I waited till morning I would prob miss the bin men as they sometimes come really early and wake the street up!
+p529
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 22:15:16 +0000 2017
+p530
+sg11
+I1
+sa(dp531
+g2
+I0
+sg3
+V@LeonAndJune Just been to put the bin out...not sure if it will stay upright as there isn't much in it!
+p532
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VMon Oct 16 22:02:41 +0000 2017
+p533
+sg11
+I1
+sa(dp534
+g2
+I0
+sg3
+V@LeonAndJune Very windy here in Caerphilly but not as bad as further west
+p535
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VMon Oct 16 21:54:49 +0000 2017
+p536
+sg11
+I1
+sa(dp537
+g2
+I0
+sg3
+V@Independent No shit Sherlock! Could have said that prior to the referendum
+p538
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I2
+sg9
+VMon Oct 16 21:33:47 +0000 2017
+p539
+sg11
+I1
+sa(dp540
+g2
+I0
+sg3
+V@airlivenet Rather them than me in that plane right now.Do you know where they are diverting to?
+p541
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 21:11:59 +0000 2017
+p542
+sg11
+I1
+sa(dp543
+g2
+I0
+sg3
+V@airlivenet don't think this Ryanair is having much luck https://t.co/dFreMMWsNZ
+p544
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 21:06:49 +0000 2017
+p545
+sg11
+I1
+sa(dp546
+g2
+I0
+sg3
+V@FlightAlerts777 or maybe not! https://t.co/J672lQ1DFX
+p547
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 21:02:05 +0000 2017
+p548
+sg11
+I1
+sa(dp549
+g2
+I0
+sg3
+V@FlightAlerts777 think this Ryanair flight is having another go! https://t.co/RG2vLFjgZe
+p550
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 21:00:27 +0000 2017
+p551
+sg11
+I1
+sa(dp552
+g2
+I0
+sg3
+VRT @CommutingRants: Which one is most likely to break down? https://t.co/9BqyLTbawd
+p553
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 20:33:18 +0000 2017
+p554
+sg11
+I1
+sa(dp555
+g2
+I0
+sg3
+V@FlightAlerts777 busy day for you today!
+p556
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 15:05:00 +0000 2017
+p557
+sg11
+I1
+sa(dp558
+g2
+I0
+sg3
+V@GWRHelp @networkrailwest Ok. I may just go for the surprise though!
+p559
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 15:01:54 +0000 2017
+p560
+sg11
+I2
+sa(dp561
+g2
+I0
+sg3
+V@networkrailwest @GWRHelp Are there only a certain amount of these trains?Just wondering if we will get a go when w\u2026 https://t.co/PMLZbJkU9P
+p562
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 14:47:18 +0000 2017
+p563
+sg11
+I2
+sa(dp564
+g2
+I0
+sg3
+VNo way....he was the first comedian I ever saw live back in the 90s https://t.co/xCUbEyaXCc
+p565
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 11:34:11 +0000 2017
+p566
+sg11
+I0
+sa(dp567
+g2
+I0
+sg3
+V@katczeks I agree...proper weird
+p568
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I1
+sg9
+VMon Oct 16 09:29:53 +0000 2017
+p569
+sg11
+I1
+sa(dp570
+g2
+I0
+sg3
+V@BrynMeadows Just tweeted the same thing!
+p571
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VMon Oct 16 09:28:43 +0000 2017
+p572
+sg11
+I1
+sa(dp573
+g2
+I0
+sg3
+VRT @BrynMeadows: Weird weather today - is it light or dark right now? \u000a#Autumn #storm #weather https://t.co/jlP7PyWhNR
+p574
+sg5
+I3
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VMon Oct 16 09:28:30 +0000 2017
+p575
+sg11
+I1
+sa(dp576
+g2
+I0
+sg3
+VThe sky and just generally outside is a weird colour today here in Wales #Ophelia
+p577
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I5
+sg9
+VMon Oct 16 09:21:27 +0000 2017
+p578
+sg11
+I0
+sa(dp579
+g2
+I0
+sg3
+VRT @Dangercoombs: I am in awe tonight of everyone who supported #babyloss. Will you help next year? @cadwwales  @NTWales @stdavidshall @New\u2026
+p580
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 15 21:24:39 +0000 2017
+p581
+sg11
+I4
+sa(dp582
+g2
+I0
+sg3
+VRT @LilyMae_UK: Lighting @THSHBirmingham &amp; Library of Birmingham #pinkandblue for #waveoflight2017 &amp; @BLA_Campaign #babylossawarenessweek @\u2026
+p583
+sg5
+I3
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 15 20:28:39 +0000 2017
+p584
+sg11
+I3
+sa(dp585
+g2
+I0
+sg3
+VRT @sandslothians: The majestic Kelpies showing their solidarity \U0001f497\U0001f499\u000aThank you to @HelixFalkirk for supporting @BLA_Campaign\u000a#pinkandbluefor\u2026
+p586
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 15 20:26:14 +0000 2017
+p587
+sg11
+I3
+sa(dp588
+g2
+I0
+sg3
+VRT @SandsUK: The Millenium Bridge in Newcastle #waveoflight #babyloss #pinkandblue https://t.co/DIjF4auQKn
+p589
+sg5
+I3
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 15 20:26:12 +0000 2017
+p590
+sg11
+I1
+sa(dp591
+g2
+I0
+sg3
+V#waveoflight In memory of my daughter Seren, still born but still loved https://t.co/2SnsbJFE5H
+p592
+sg5
+I1
+sg6
+Nsg7
+I0
+sg8
+I19
+sg9
+VSun Oct 15 18:51:53 +0000 2017
+p593
+sg11
+I0
+sa(dp594
+g2
+I0
+sg3
+V@forbiddencusick @liamyoung And? You can't be friends with someone who has differing views to you?
+p595
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I3
+sg9
+VSun Oct 15 15:56:47 +0000 2017
+p596
+sg11
+I2
+sa(dp597
+g2
+I0
+sg3
+VRT @barryjbutler: Bloody foreigners. Coming over here stealing our highly skilled academic jobs. Whatever next? Doctors, nurses? Oh, wait..\u2026
+p598
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 15 15:52:34 +0000 2017
+p599
+sg11
+I1
+sa(dp600
+g2
+I0
+sg3
+V@forbiddencusick @frozenwarning @liamyoung Just because he's stood next to him means nothing..i regularly stand nex\u2026 https://t.co/ukiamaSA4k
+p601
+sg5
+I0
+sg6
+Nsg7
+I1
+sg8
+I0
+sg9
+VSun Oct 15 15:52:00 +0000 2017
+p602
+sg11
+I3
+sa(dp603
+g2
+I0
+sg3
+V\U0001f602\U0001f602\U0001f602\U0001f602 https://t.co/hliTrD7Ug6
+p604
+sg5
+I0
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSun Oct 15 15:32:26 +0000 2017
+p605
+sg11
+I0
+sa(dp606
+g2
+I0
+sg3
+VRT @CardiffSANDS: .@CityHallCardiff lit up pink and blue tonight #babyloss #cardiff #wales @BLA_Campaign https://t.co/vtHkZwCsix
+p607
+sg5
+I3
+sg6
+Nsg7
+I0
+sg8
+I0
+sg9
+VSat Oct 14 20:20:03 +0000 2017
+p608
+sg11
+I3
+sa.
